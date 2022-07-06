@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:FFDDDD,100:FFA7A7&animation=twinkling&height=300&text=@SunYoung&fontSize=78&fontColor=FFFCFC&fontAlignY=34&)
 
-  &nbsp;&nbsp;
+  &nbsp;
   
   
 📬Social Contact📬
